@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ST10382076_IceTask5_Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ST10382076_IceTask5_Splash" parent="Base.Theme.ST10382076_IceTask5_Splash" />
+
+    <!-- splash screen-->
+    <style name="Theme.App.SplashScreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#FF96FD</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/pam_logo</item>
+
+    </style>
+</resources>
